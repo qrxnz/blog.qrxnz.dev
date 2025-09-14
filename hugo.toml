@@ -1,6 +1,7 @@
 baseURL = "https://qrxnz.dev"
 theme = "hermit"
 languageCode = "en-us"
+mainSections = ["posts"]
 
 title = "qrxnz's blog"
 
@@ -94,3 +95,10 @@ expiryDate = ["expiryDate"]
 
 [outputs]
   page = ["HTML", "RSS"]
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 10
