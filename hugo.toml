@@ -1,4 +1,4 @@
-baseURL = "https://qrxnz.dev"
+baseURL = "https://blog.qrxnz.dev"
 theme = "hermit"
 languageCode = "en-us"
 mainSections = ["posts"]

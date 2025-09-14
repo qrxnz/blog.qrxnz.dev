@@ -2,7 +2,7 @@
   "build": {
     "env": {
       "HUGO_VERSION": "0.120.4",
-      "HUGO_BASEURL": "https://qrxnz.dev"
+      "HUGO_BASEURL": "https://blog.qrxnz.dev"
     }
   }
 }
